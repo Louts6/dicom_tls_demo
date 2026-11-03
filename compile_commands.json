@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/zhoup/DICOM/dicom_tls_demo/build",
+  "command": "/usr/bin/c++  -I/home/zhoup/dcmtk/usr/include -std=gnu++11 -o CMakeFiles/tls_scu.dir/tls_scu.cpp.o -c /home/zhoup/DICOM/dicom_tls_demo/tls_scu.cpp",
+  "file": "/home/zhoup/DICOM/dicom_tls_demo/tls_scu.cpp",
+  "output": "CMakeFiles/tls_scu.dir/tls_scu.cpp.o"
+},
+{
+  "directory": "/home/zhoup/DICOM/dicom_tls_demo/build",
+  "command": "/usr/bin/c++  -I/home/zhoup/dcmtk/usr/include -std=gnu++11 -o CMakeFiles/tls_scp.dir/tls_scp.cpp.o -c /home/zhoup/DICOM/dicom_tls_demo/tls_scp.cpp",
+  "file": "/home/zhoup/DICOM/dicom_tls_demo/tls_scp.cpp",
+  "output": "CMakeFiles/tls_scp.dir/tls_scp.cpp.o"
+}
+]
