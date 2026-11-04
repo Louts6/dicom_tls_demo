@@ -18,7 +18,7 @@ echo [1/7] 生成 CA 私钥...
 openssl genrsa -out ca.key 2048
 if %errorlevel% neq 0 goto error
 echo       OK: ca.key
-
+  22222222222222222222222
 echo.
 echo [2/7] 生成 CA 自签名根证书...
 openssl req -new -x509 -days 3650 -key ca.key -out ca.crt ^

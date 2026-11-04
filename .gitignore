@@ -9,11 +9,19 @@ CMakeFiles/
 cmake_install.cmake
 Makefile
 
-# Received DICOM files
+# Received / retrieved DICOM files
 received/*.dcm
+retrieved/
+
+# SQLite index
+*.db
+*.db-shm
+*.db-wal
 
 # Clangd cache
 .cache/
+.clangd
+compile_commands.json
 
 # IDE
 .vscode/

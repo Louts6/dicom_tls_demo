@@ -1,7 +1,0 @@
-CompileFlags:
-  Add:
-    - -I/home/zhoup/dcmtk/usr/include
-    - -I/usr/include
-    - -std=gnu++11
-  Remove:
-    - -W*
